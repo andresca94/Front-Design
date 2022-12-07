@@ -1,0 +1,48 @@
+body{
+    margin: 8rem;
+}
+section{
+    padding-left: 8rem;
+    padding-right: 8rem;
+    margin-bottom: 3rem;
+}
+
+.nav-uno{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    list-style: none;
+}
+
+.nav-dos{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    list-style: none;
+}
+
+.logos{
+    width: 25px;
+    height: 25px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.post-nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.todoslogos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot{
+    padding-left: 3rem;
+}
